@@ -1,0 +1,116 @@
+body{
+    background-color: #F4F4F4;
+    border: solid #F0A500;
+    border-left-width: 10pc;
+    border-right-width: 10pc;
+    border-top-width: 40px;
+    border-bottom-width: 40px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+hr{
+    background-color: #F0A500;
+    border-style: none;
+    width: 64%;
+}
+hr[name="first_rules1"] {
+    background-color: #F0A500;
+    border-style: none;
+    width: 100%;
+}
+hr[name="first_rules"] {
+    background-color: #F0A500;
+    border-style: none;
+    width: 100%;
+}
+h1{
+    color: black;
+    font-family: Verdana, sans-serif;
+
+}
+h2{
+    color: #73777B;
+    font-family: Verdana, sans-serif;
+
+}
+h3{
+    color: #F0A500;
+    font-family: Verdana, sans-serif;
+
+}
+h4{
+    color: #1A1C20;
+    font-family: Verdana, sans-serif;
+    border: solid #F4F4F4;
+    border-left-width: 10pc;
+    border-right-width: 10pc;
+    border-top-width: 0pc;
+    border-bottom-width: 0pc;
+
+
+}
+p{
+    color:#1A1C20;
+    font-family: Georgia, serif;
+    border: solid #F4F4F4;
+    border-left-width: 10pc;
+    border-right-width: 10pc;
+    border-top-width: 0pc;
+    border-bottom-width: 0pc;
+    line-height: 1.5
+
+}
+ol{
+    color:#1A1C20;
+    font-family: Georgia, serif;
+    list-style-position: inside;
+    padding-left: 0;
+    border: solid #F4F4F4;
+    border-left-width: 10pc;
+    border-right-width: 10pc;
+    border-bottom-width: 0pc;
+    line-height: 1.5
+
+}
+ul{
+    color:#1A1C20;
+    font-family: Georgia, serif;
+    border: solid #F4F4F4;
+    list-style-position: inside;
+    padding-left: 0;
+    border-left-width: 10pc;
+    border-right-width: 10pc;
+    border-top-width: 0pc;
+    border-bottom-width: 0pc;
+    line-height: 1.5
+
+}
+ul[name="firstlist"]{
+    list-style-position: inside;
+    padding-left: 0;
+    color:#1A1C20;
+    font-family: Georgia, serif;
+    border: solid #F4F4F4;
+    border-left-width: 0pc;
+    border-right-width: 0pc;
+    border-top-width: 0pc;
+    border-bottom-width: 0pc;
+
+}
+table{
+    color:#1A1C20;
+    font-family: Georgia, serif;
+
+
+}
+p[name="papersbox"]{
+    color:#1A1C20;
+    font-family: Georgia, serif;
+    border: solid #F4F4F4;
+    border-left-width: 10pc;
+    border-right-width: 10pc;
+    border-top-width: 0pc;
+    border-bottom-width: 0pc;
+    
+
+}
