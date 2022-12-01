@@ -1,12 +1,13 @@
 body{
     background-color: #F4F4F4;
     border: solid #F0A500;
-    border-left-width: 10pc;
-    border-right-width: 10pc;
+    border-left-width: 10vw;
+    border-right-width: 10vw;
     border-top-width: 40px;
     border-bottom-width: 40px;
     text-align: justify;
     text-justify: inter-word;
+    font-size:1.2vw;
 }
 hr{
     background-color: #F0A500;
@@ -42,8 +43,8 @@ h4{
     color: #1A1C20;
     font-family: Verdana, sans-serif;
     border: solid #F4F4F4;
-    border-left-width: 10pc;
-    border-right-width: 10pc;
+    border-left-width: 10vw;
+    border-right-width: 10vw;
     border-top-width: 0pc;
     border-bottom-width: 0pc;
 
@@ -53,11 +54,12 @@ p{
     color:#1A1C20;
     font-family: Georgia, serif;
     border: solid #F4F4F4;
-    border-left-width: 10pc;
-    border-right-width: 10pc;
+    border-left-width: 10vw;
+    border-right-width: 10vw;
     border-top-width: 0pc;
     border-bottom-width: 0pc;
-    line-height: 1.5
+    line-height: 1.5;
+    
 
 }
 ol{
@@ -66,10 +68,12 @@ ol{
     list-style-position: inside;
     padding-left: 0;
     border: solid #F4F4F4;
-    border-left-width: 10pc;
-    border-right-width: 10pc;
+    border-left-width: 10vw;
+    border-right-width: 10vw;
     border-bottom-width: 0pc;
-    line-height: 1.5
+    line-height: 1.5;
+    
+
 
 }
 ul{
@@ -78,11 +82,12 @@ ul{
     border: solid #F4F4F4;
     list-style-position: inside;
     padding-left: 0;
-    border-left-width: 10pc;
-    border-right-width: 10pc;
+    border-left-width: 10vw;
+    border-right-width: 10vw;
     border-top-width: 0pc;
     border-bottom-width: 0pc;
-    line-height: 1.5
+    line-height: 1.5;
+    
 
 }
 ul[name="firstlist"]{
@@ -107,10 +112,11 @@ p[name="papersbox"]{
     color:#1A1C20;
     font-family: Georgia, serif;
     border: solid #F4F4F4;
-    border-left-width: 10pc;
-    border-right-width: 10pc;
+    border-left-width: 10vw;
+    border-right-width: 10vw;
     border-top-width: 0pc;
     border-bottom-width: 0pc;
+    
     
 
 }
